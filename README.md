@@ -1,35 +1,55 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jecSxI3G)
 # 📘 Assignment: HTML5 + Accessibility & SEO Basics
 
-## Overview
+# Healthy Living Blog
 
-This assignment will help you solidify your understanding of modern HTML5 structure while applying foundational concepts of web accessibility and search engine optimization (SEO). You’ll create a simple, semantically correct web page that prioritizes both human and machine readability—two pillars of great web design.
+![Healthy Foods Banner](https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg)
 
-## Objective
+A simple, semantic HTML5 blog about healthy living and nutrition tips, built with accessibility and SEO best practices.
 
-Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
+## Features
 
-## Guidelines
+- **Semantic HTML5 structure** using proper elements like `<header>`, `<nav>`, `<main>`, `<article>`, etc.
+- **SEO optimized** with proper heading hierarchy and meta tags
+- **Responsive images** from Pexels with descriptive alt text
+- **Clean, readable content** about health and wellness topics
+- **Well-organized sections** for featured articles and latest posts
 
-Use only HTML5. No CSS or JavaScript is required at this stage. Focus on using meaningful semantic elements to structure your page. Avoid using `<div>` or `<span>` unless absolutely necessary. Ensure your page has clearly defined sections such as a header, navigation, main content, and a footer.
+## File Structure
+healthy-living-blog/
+├── index.html # Main HTML file
+└── README.md # Project documentation
 
-Incorporate accessibility by using proper HTML5 landmarks and attributes that improve navigation for assistive technologies. Your HTML should reflect thoughtful planning of hierarchy and readability, both for users and search engines.
+## Technologies Used
 
-For SEO, emphasize the use of heading tags in the correct order, provide descriptive text, and ensure your content is both human-readable and crawler-friendly. Consider how a search engine would interpret your page in terms of structure and content clarity.
+- HTML5
+- Pexels free stock photos
 
-## Deliverables
+## Accessibility Features
 
-A single HTML file named `index.html`. It should include:
+- Semantic HTML structure
+- Descriptive alt text for all images
+- Logical heading hierarchy
+- Clear navigation
 
-* A semantic structure using appropriate HTML5 elements.
-* Clear headings in a logical hierarchy.
-* Accessibility enhancements using proper tags and attributes.
-* SEO-friendly metadata and content.
+## How to Use
 
-## Tips
+1. Clone or download this repository
+2. Open `index.html` in any modern web browser
+3. No server required - works as a static site
 
-* Use HTML5 semantic tags appropriately.
-* Organize content with accessibility in mind.
-* Apply basic on-page SEO techniques.
-* Follow clean, readable HTML code structure.
+## Project Goals
 
+- Demonstrate proper HTML5 semantic structure
+- Show beginner-friendly SEO techniques
+- Provide a template for a simple blog
+- Maintain accessibility without complex ARIA
+
+## Credits
+
+- All images from [Pexels](https://www.pexels.com/)
+- Inspired by simple healthy living blogs
+
+---
+
+**Note:** This is a frontend-only HTML template. No backend functionality is included.
